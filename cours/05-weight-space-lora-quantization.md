@@ -107,7 +107,7 @@ Le router doit être évalué sur les ambiguïtés et les erreurs de classificat
 
 L’infographie de synthèse ci-dessous rassemble les trois leviers : adaptation par LoRA, réduction mémoire par quantization et sélection dynamique par router.
 
-![Synthèse de LoRA, quantization et router](../assets/05-weight-space-lora-quantization/lora-quantization-router-summary.png)
+![Infographie en anglais sur LoRA, la quantization et le router](../assets/05-weight-space-lora-quantization/lora-quantization-router-summary-en.png)
 
 ## Architecture globale
 
